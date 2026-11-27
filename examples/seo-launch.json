@@ -1,0 +1,5 @@
+{
+  "base_url": "https://you.github.io/your-site/",
+  "indexnow_key": "generated-by-the-key-command",
+  "exclude": ["404.html", "draft.html"]
+}
